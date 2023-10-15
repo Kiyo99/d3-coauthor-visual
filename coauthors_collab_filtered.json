@@ -1,0 +1,1415 @@
+{
+    "nodes": [
+        {
+            "id": "Farid Edrisi"
+        },
+        {
+            "id": "Mehdi Saman Azari"
+        },
+        {
+            "id": "Malte Heithoff"
+        },
+        {
+            "id": "Alexander David Hellwig"
+        },
+        {
+            "id": "Judith Michael"
+        },
+        {
+            "id": "Bernhard Rumpe"
+        },
+        {
+            "id": "Carolina Neves"
+        },
+        {
+            "id": "Chia-Yu Lin"
+        },
+        {
+            "id": "Srishti Nigam"
+        },
+        {
+            "id": "Daumantas Patapas"
+        },
+        {
+            "id": "Ander Eguiluz"
+        },
+        {
+            "id": "Tanjina Islam"
+        },
+        {
+            "id": "Ivano Malavolta"
+        },
+        {
+            "id": "Lorena Poenaru-Olaru"
+        },
+        {
+            "id": "June Sallou"
+        },
+        {
+            "id": "Luis Cruz"
+        },
+        {
+            "id": "Jan S. Rellermeyer"
+        },
+        {
+            "id": "Arie van Deursen"
+        },
+        {
+            "id": "Samdyuti Suri"
+        },
+        {
+            "id": "Sankar Narayan Das"
+        },
+        {
+            "id": "Kuntal Dey"
+        },
+        {
+            "id": "Kapil Singi"
+        },
+        {
+            "id": "Vibhu Saujanya Sharma"
+        },
+        {
+            "id": "Vikrant Kaulgud"
+        },
+        {
+            "id": "Alicia JW Takaoka"
+        },
+        {
+            "id": "Dirk Ahlers"
+        },
+        {
+            "id": "Eivind Syrdalen Dovland"
+        },
+        {
+            "id": "Letizia Jaccheri"
+        },
+        {
+            "id": "Mehul Warade"
+        },
+        {
+            "id": "Kevin Lee"
+        },
+        {
+            "id": "Chathurika Ranaweera"
+        },
+        {
+            "id": "Jean-Guy Schneider"
+        },
+        {
+            "id": "Md. Mahim Anjum Haque"
+        },
+        {
+            "id": "Wasi Uddin Ahmad"
+        },
+        {
+            "id": "Ismini Lourentzou"
+        },
+        {
+            "id": "Chris Brown"
+        },
+        {
+            "id": "Viktor Csuvik"
+        },
+        {
+            "id": "Phan Thi Thanh Huyen"
+        },
+        {
+            "id": "Kazuya Yasuda"
+        },
+        {
+            "id": "Shinji Itoh"
+        },
+        {
+            "id": "Steven P. Reiss"
+        },
+        {
+            "id": "Xuan Wei"
+        },
+        {
+            "id": "Qi Xin"
+        },
+        {
+            "id": "Francisco Ribeiro"
+        },
+        {
+            "id": "Kanae Tsushima"
+        },
+        {
+            "id": "Ridwan Shariffdeen"
+        },
+        {
+            "id": "Martin Mirchev"
+        },
+        {
+            "id": "Abhik Roychoudhury"
+        },
+        {
+            "id": "Dominik Sobania"
+        },
+        {
+            "id": "Martin Briesch"
+        },
+        {
+            "id": "Carol Hanna"
+        },
+        {
+            "id": "Justyna Petke"
+        },
+        {
+            "id": "Shin Hwei Tan"
+        },
+        {
+            "id": "Dongsun Kim"
+        },
+        {
+            "id": "Sergey Mechtaev"
+        },
+        {
+            "id": "Yuriy Brun"
+        },
+        {
+            "id": "Alex Brown"
+        },
+        {
+            "id": "Tze-Wen Lee"
+        },
+        {
+            "id": "Jin B. Hong"
+        },
+        {
+            "id": "Johannes de Haan"
+        },
+        {
+            "id": "Abdel Youssouf"
+        },
+        {
+            "id": "Ita Ryan"
+        },
+        {
+            "id": "Klaas-Jan Stol"
+        },
+        {
+            "id": "Utz Roedig"
+        },
+        {
+            "id": "Kayode Yakub Saheed"
+        },
+        {
+            "id": "Sanjay Misra"
+        },
+        {
+            "id": "Sabarathinam Chockalingam"
+        },
+        {
+            "id": "Joshua Ammermann"
+        },
+        {
+            "id": "Tim Bittner"
+        },
+        {
+            "id": "Domenik Eichhorn"
+        },
+        {
+            "id": "Ina Schaefer"
+        },
+        {
+            "id": "Christoph Seidl"
+        },
+        {
+            "id": "Aidan Evans"
+        },
+        {
+            "id": "Seun Omonije"
+        },
+        {
+            "id": "Robert Rand"
+        },
+        {
+            "id": "Luciano Bello"
+        },
+        {
+            "id": "David Clark"
+        },
+        {
+            "id": "Javier Sanchez-Rivero"
+        },
+        {
+            "id": "Juan Manuel Murillo"
+        },
+        {
+            "id": "Jianjun Zhao"
+        },
+        {
+            "id": "Masaomi Yamaguchi"
+        },
+        {
+            "id": "Nobukazu Yoshioka"
+        },
+        {
+            "id": "Pengzhan Zhao"
+        },
+        {
+            "id": "Xiongfei Wu"
+        },
+        {
+            "id": "Zhuo Li"
+        },
+        {
+            "id": "Shaukat Ali"
+        },
+        {
+            "id": "Tao Yue"
+        }
+    ],
+    "links": [
+        {
+            "source": "Farid Edrisi",
+            "target": "Mehdi Saman Azari"
+        },
+        {
+            "source": "Mehdi Saman Azari",
+            "target": "Farid Edrisi"
+        },
+        {
+            "source": "Malte Heithoff",
+            "target": "Bernhard Rumpe"
+        },
+        {
+            "source": "Malte Heithoff",
+            "target": "Alexander David Hellwig"
+        },
+        {
+            "source": "Malte Heithoff",
+            "target": "Judith Michael"
+        },
+        {
+            "source": "Alexander David Hellwig",
+            "target": "Bernhard Rumpe"
+        },
+        {
+            "source": "Alexander David Hellwig",
+            "target": "Judith Michael"
+        },
+        {
+            "source": "Alexander David Hellwig",
+            "target": "Malte Heithoff"
+        },
+        {
+            "source": "Judith Michael",
+            "target": "Alexander David Hellwig"
+        },
+        {
+            "source": "Judith Michael",
+            "target": "Malte Heithoff"
+        },
+        {
+            "source": "Judith Michael",
+            "target": "Bernhard Rumpe"
+        },
+        {
+            "source": "Bernhard Rumpe",
+            "target": "Ina Schaefer"
+        },
+        {
+            "source": "Bernhard Rumpe",
+            "target": "Malte Heithoff"
+        },
+        {
+            "source": "Bernhard Rumpe",
+            "target": "Alexander David Hellwig"
+        },
+        {
+            "source": "Bernhard Rumpe",
+            "target": "Judith Michael"
+        },
+        {
+            "source": "Carolina Neves",
+            "target": "Ivano Malavolta"
+        },
+        {
+            "source": "Carolina Neves",
+            "target": "Ander Eguiluz"
+        },
+        {
+            "source": "Carolina Neves",
+            "target": "Chia-Yu Lin"
+        },
+        {
+            "source": "Carolina Neves",
+            "target": "Tanjina Islam"
+        },
+        {
+            "source": "Carolina Neves",
+            "target": "Daumantas Patapas"
+        },
+        {
+            "source": "Carolina Neves",
+            "target": "Srishti Nigam"
+        },
+        {
+            "source": "Chia-Yu Lin",
+            "target": "Ivano Malavolta"
+        },
+        {
+            "source": "Chia-Yu Lin",
+            "target": "Srishti Nigam"
+        },
+        {
+            "source": "Chia-Yu Lin",
+            "target": "Tanjina Islam"
+        },
+        {
+            "source": "Chia-Yu Lin",
+            "target": "Ander Eguiluz"
+        },
+        {
+            "source": "Chia-Yu Lin",
+            "target": "Daumantas Patapas"
+        },
+        {
+            "source": "Chia-Yu Lin",
+            "target": "Carolina Neves"
+        },
+        {
+            "source": "Srishti Nigam",
+            "target": "Ivano Malavolta"
+        },
+        {
+            "source": "Srishti Nigam",
+            "target": "Ander Eguiluz"
+        },
+        {
+            "source": "Srishti Nigam",
+            "target": "Carolina Neves"
+        },
+        {
+            "source": "Srishti Nigam",
+            "target": "Chia-Yu Lin"
+        },
+        {
+            "source": "Srishti Nigam",
+            "target": "Tanjina Islam"
+        },
+        {
+            "source": "Srishti Nigam",
+            "target": "Daumantas Patapas"
+        },
+        {
+            "source": "Daumantas Patapas",
+            "target": "Ivano Malavolta"
+        },
+        {
+            "source": "Daumantas Patapas",
+            "target": "Ander Eguiluz"
+        },
+        {
+            "source": "Daumantas Patapas",
+            "target": "Carolina Neves"
+        },
+        {
+            "source": "Daumantas Patapas",
+            "target": "Chia-Yu Lin"
+        },
+        {
+            "source": "Daumantas Patapas",
+            "target": "Tanjina Islam"
+        },
+        {
+            "source": "Daumantas Patapas",
+            "target": "Srishti Nigam"
+        },
+        {
+            "source": "Ander Eguiluz",
+            "target": "Ivano Malavolta"
+        },
+        {
+            "source": "Ander Eguiluz",
+            "target": "Carolina Neves"
+        },
+        {
+            "source": "Ander Eguiluz",
+            "target": "Chia-Yu Lin"
+        },
+        {
+            "source": "Ander Eguiluz",
+            "target": "Tanjina Islam"
+        },
+        {
+            "source": "Ander Eguiluz",
+            "target": "Daumantas Patapas"
+        },
+        {
+            "source": "Ander Eguiluz",
+            "target": "Srishti Nigam"
+        },
+        {
+            "source": "Tanjina Islam",
+            "target": "Ander Eguiluz"
+        },
+        {
+            "source": "Tanjina Islam",
+            "target": "Carolina Neves"
+        },
+        {
+            "source": "Tanjina Islam",
+            "target": "Chia-Yu Lin"
+        },
+        {
+            "source": "Tanjina Islam",
+            "target": "Srishti Nigam"
+        },
+        {
+            "source": "Tanjina Islam",
+            "target": "Ivano Malavolta"
+        },
+        {
+            "source": "Tanjina Islam",
+            "target": "Daumantas Patapas"
+        },
+        {
+            "source": "Ivano Malavolta",
+            "target": "Srishti Nigam"
+        },
+        {
+            "source": "Ivano Malavolta",
+            "target": "Tanjina Islam"
+        },
+        {
+            "source": "Ivano Malavolta",
+            "target": "Ander Eguiluz"
+        },
+        {
+            "source": "Ivano Malavolta",
+            "target": "Chia-Yu Lin"
+        },
+        {
+            "source": "Ivano Malavolta",
+            "target": "Daumantas Patapas"
+        },
+        {
+            "source": "Ivano Malavolta",
+            "target": "Carolina Neves"
+        },
+        {
+            "source": "Lorena Poenaru-Olaru",
+            "target": "Arie van Deursen"
+        },
+        {
+            "source": "Lorena Poenaru-Olaru",
+            "target": "Luis Cruz"
+        },
+        {
+            "source": "Lorena Poenaru-Olaru",
+            "target": "Jan S. Rellermeyer"
+        },
+        {
+            "source": "Lorena Poenaru-Olaru",
+            "target": "June Sallou"
+        },
+        {
+            "source": "June Sallou",
+            "target": "Jan S. Rellermeyer"
+        },
+        {
+            "source": "June Sallou",
+            "target": "Luis Cruz"
+        },
+        {
+            "source": "June Sallou",
+            "target": "Arie van Deursen"
+        },
+        {
+            "source": "June Sallou",
+            "target": "Lorena Poenaru-Olaru"
+        },
+        {
+            "source": "Luis Cruz",
+            "target": "Jan S. Rellermeyer"
+        },
+        {
+            "source": "Luis Cruz",
+            "target": "Arie van Deursen"
+        },
+        {
+            "source": "Luis Cruz",
+            "target": "June Sallou"
+        },
+        {
+            "source": "Luis Cruz",
+            "target": "Lorena Poenaru-Olaru"
+        },
+        {
+            "source": "Jan S. Rellermeyer",
+            "target": "Luis Cruz"
+        },
+        {
+            "source": "Jan S. Rellermeyer",
+            "target": "Arie van Deursen"
+        },
+        {
+            "source": "Jan S. Rellermeyer",
+            "target": "Lorena Poenaru-Olaru"
+        },
+        {
+            "source": "Jan S. Rellermeyer",
+            "target": "June Sallou"
+        },
+        {
+            "source": "Arie van Deursen",
+            "target": "Luis Cruz"
+        },
+        {
+            "source": "Arie van Deursen",
+            "target": "Lorena Poenaru-Olaru"
+        },
+        {
+            "source": "Arie van Deursen",
+            "target": "Jan S. Rellermeyer"
+        },
+        {
+            "source": "Arie van Deursen",
+            "target": "June Sallou"
+        },
+        {
+            "source": "Samdyuti Suri",
+            "target": "Kuntal Dey"
+        },
+        {
+            "source": "Samdyuti Suri",
+            "target": "Vikrant Kaulgud"
+        },
+        {
+            "source": "Samdyuti Suri",
+            "target": "Sankar Narayan Das"
+        },
+        {
+            "source": "Samdyuti Suri",
+            "target": "Kapil Singi"
+        },
+        {
+            "source": "Samdyuti Suri",
+            "target": "Vibhu Saujanya Sharma"
+        },
+        {
+            "source": "Sankar Narayan Das",
+            "target": "Kuntal Dey"
+        },
+        {
+            "source": "Sankar Narayan Das",
+            "target": "Vikrant Kaulgud"
+        },
+        {
+            "source": "Sankar Narayan Das",
+            "target": "Samdyuti Suri"
+        },
+        {
+            "source": "Sankar Narayan Das",
+            "target": "Kapil Singi"
+        },
+        {
+            "source": "Sankar Narayan Das",
+            "target": "Vibhu Saujanya Sharma"
+        },
+        {
+            "source": "Kuntal Dey",
+            "target": "Kapil Singi"
+        },
+        {
+            "source": "Kuntal Dey",
+            "target": "Samdyuti Suri"
+        },
+        {
+            "source": "Kuntal Dey",
+            "target": "Vikrant Kaulgud"
+        },
+        {
+            "source": "Kuntal Dey",
+            "target": "Vibhu Saujanya Sharma"
+        },
+        {
+            "source": "Kuntal Dey",
+            "target": "Sankar Narayan Das"
+        },
+        {
+            "source": "Kapil Singi",
+            "target": "Vibhu Saujanya Sharma"
+        },
+        {
+            "source": "Kapil Singi",
+            "target": "Kuntal Dey"
+        },
+        {
+            "source": "Kapil Singi",
+            "target": "Sankar Narayan Das"
+        },
+        {
+            "source": "Kapil Singi",
+            "target": "Samdyuti Suri"
+        },
+        {
+            "source": "Kapil Singi",
+            "target": "Vikrant Kaulgud"
+        },
+        {
+            "source": "Vibhu Saujanya Sharma",
+            "target": "Kapil Singi"
+        },
+        {
+            "source": "Vibhu Saujanya Sharma",
+            "target": "Kuntal Dey"
+        },
+        {
+            "source": "Vibhu Saujanya Sharma",
+            "target": "Sankar Narayan Das"
+        },
+        {
+            "source": "Vibhu Saujanya Sharma",
+            "target": "Samdyuti Suri"
+        },
+        {
+            "source": "Vibhu Saujanya Sharma",
+            "target": "Vikrant Kaulgud"
+        },
+        {
+            "source": "Vikrant Kaulgud",
+            "target": "Vibhu Saujanya Sharma"
+        },
+        {
+            "source": "Vikrant Kaulgud",
+            "target": "Kapil Singi"
+        },
+        {
+            "source": "Vikrant Kaulgud",
+            "target": "Kuntal Dey"
+        },
+        {
+            "source": "Vikrant Kaulgud",
+            "target": "Sankar Narayan Das"
+        },
+        {
+            "source": "Vikrant Kaulgud",
+            "target": "Samdyuti Suri"
+        },
+        {
+            "source": "Alicia JW Takaoka",
+            "target": "Dirk Ahlers"
+        },
+        {
+            "source": "Alicia JW Takaoka",
+            "target": "Eivind Syrdalen Dovland"
+        },
+        {
+            "source": "Alicia JW Takaoka",
+            "target": "Letizia Jaccheri"
+        },
+        {
+            "source": "Dirk Ahlers",
+            "target": "Alicia JW Takaoka"
+        },
+        {
+            "source": "Dirk Ahlers",
+            "target": "Eivind Syrdalen Dovland"
+        },
+        {
+            "source": "Dirk Ahlers",
+            "target": "Letizia Jaccheri"
+        },
+        {
+            "source": "Ferdinand Ward Adlandsvik",
+            "target": "Dirk Ahlers"
+        },
+        {
+            "source": "Ferdinand Ward Adlandsvik",
+            "target": "Alicia JW Takaoka"
+        },
+        {
+            "source": "Ferdinand Ward Adlandsvik",
+            "target": "Eivind Syrdalen Dovland"
+        },
+        {
+            "source": "Ferdinand Ward Adlandsvik",
+            "target": "Letizia Jaccheri"
+        },
+        {
+            "source": "Eivind Syrdalen Dovland",
+            "target": "Dirk Ahlers"
+        },
+        {
+            "source": "Eivind Syrdalen Dovland",
+            "target": "Alicia JW Takaoka"
+        },
+        {
+            "source": "Eivind Syrdalen Dovland",
+            "target": "Letizia Jaccheri"
+        },
+        {
+            "source": "Letizia Jaccheri",
+            "target": "Eivind Syrdalen Dovland"
+        },
+        {
+            "source": "Letizia Jaccheri",
+            "target": "Alicia JW Takaoka"
+        },
+        {
+            "source": "Letizia Jaccheri",
+            "target": "Dirk Ahlers"
+        },
+        {
+            "source": "Mehul Warade",
+            "target": "Kevin Lee"
+        },
+        {
+            "source": "Mehul Warade",
+            "target": "Jean-Guy Schneider"
+        },
+        {
+            "source": "Mehul Warade",
+            "target": "Chathurika Ranaweera"
+        },
+        {
+            "source": "Kevin Lee",
+            "target": "Chathurika Ranaweera"
+        },
+        {
+            "source": "Kevin Lee",
+            "target": "Jean-Guy Schneider"
+        },
+        {
+            "source": "Kevin Lee",
+            "target": "Mehul Warade"
+        },
+        {
+            "source": "Chathurika Ranaweera",
+            "target": "Kevin Lee"
+        },
+        {
+            "source": "Chathurika Ranaweera",
+            "target": "Mehul Warade"
+        },
+        {
+            "source": "Chathurika Ranaweera",
+            "target": "Jean-Guy Schneider"
+        },
+        {
+            "source": "Jean-Guy Schneider",
+            "target": "Chathurika Ranaweera"
+        },
+        {
+            "source": "Jean-Guy Schneider",
+            "target": "Mehul Warade"
+        },
+        {
+            "source": "Jean-Guy Schneider",
+            "target": "Kevin Lee"
+        },
+        {
+            "source": "Md. Mahim Anjum Haque",
+            "target": "Wasi Uddin Ahmad"
+        },
+        {
+            "source": "Md. Mahim Anjum Haque",
+            "target": "Chris Brown"
+        },
+        {
+            "source": "Md. Mahim Anjum Haque",
+            "target": "Ismini Lourentzou"
+        },
+        {
+            "source": "Wasi Uddin Ahmad",
+            "target": "Md. Mahim Anjum Haque"
+        },
+        {
+            "source": "Wasi Uddin Ahmad",
+            "target": "Chris Brown"
+        },
+        {
+            "source": "Wasi Uddin Ahmad",
+            "target": "Ismini Lourentzou"
+        },
+        {
+            "source": "Ismini Lourentzou",
+            "target": "Wasi Uddin Ahmad"
+        },
+        {
+            "source": "Ismini Lourentzou",
+            "target": "Md. Mahim Anjum Haque"
+        },
+        {
+            "source": "Ismini Lourentzou",
+            "target": "Chris Brown"
+        },
+        {
+            "source": "Chris Brown",
+            "target": "Wasi Uddin Ahmad"
+        },
+        {
+            "source": "Chris Brown",
+            "target": "Md. Mahim Anjum Haque"
+        },
+        {
+            "source": "Chris Brown",
+            "target": "Ismini Lourentzou"
+        },
+        {
+            "source": "Daniel Horvath",
+            "target": "Viktor Csuvik"
+        },
+        {
+            "source": "Tibor Gyimothy",
+            "target": "Viktor Csuvik"
+        },
+        {
+            "source": "Laszlo Vidacs",
+            "target": "Viktor Csuvik"
+        },
+        {
+            "source": "Phan Thi Thanh Huyen",
+            "target": "Kazuya Yasuda"
+        },
+        {
+            "source": "Phan Thi Thanh Huyen",
+            "target": "Shinji Itoh"
+        },
+        {
+            "source": "Kazuya Yasuda",
+            "target": "Phan Thi Thanh Huyen"
+        },
+        {
+            "source": "Kazuya Yasuda",
+            "target": "Shinji Itoh"
+        },
+        {
+            "source": "Shinji Itoh",
+            "target": "Kazuya Yasuda"
+        },
+        {
+            "source": "Shinji Itoh",
+            "target": "Phan Thi Thanh Huyen"
+        },
+        {
+            "source": "Steven P. Reiss",
+            "target": "Qi Xin"
+        },
+        {
+            "source": "Steven P. Reiss",
+            "target": "Xuan Wei"
+        },
+        {
+            "source": "Xuan Wei",
+            "target": "Steven P. Reiss"
+        },
+        {
+            "source": "Xuan Wei",
+            "target": "Qi Xin"
+        },
+        {
+            "source": "Qi Xin",
+            "target": "Steven P. Reiss"
+        },
+        {
+            "source": "Qi Xin",
+            "target": "Xuan Wei"
+        },
+        {
+            "source": "Francisco Ribeiro",
+            "target": "Kanae Tsushima"
+        },
+        {
+            "source": "Jose Nuno Macedo",
+            "target": "Kanae Tsushima"
+        },
+        {
+            "source": "Jose Nuno Macedo",
+            "target": "Francisco Ribeiro"
+        },
+        {
+            "source": "Kanae Tsushima",
+            "target": "Francisco Ribeiro"
+        },
+        {
+            "source": "Ridwan Shariffdeen",
+            "target": "Shin Hwei Tan"
+        },
+        {
+            "source": "Ridwan Shariffdeen",
+            "target": "Abhik Roychoudhury"
+        },
+        {
+            "source": "Ridwan Shariffdeen",
+            "target": "Martin Mirchev"
+        },
+        {
+            "source": "Martin Mirchev",
+            "target": "Ridwan Shariffdeen"
+        },
+        {
+            "source": "Martin Mirchev",
+            "target": "Shin Hwei Tan"
+        },
+        {
+            "source": "Martin Mirchev",
+            "target": "Abhik Roychoudhury"
+        },
+        {
+            "source": "Abhik Roychoudhury",
+            "target": "Sergey Mechtaev"
+        },
+        {
+            "source": "Abhik Roychoudhury",
+            "target": "Ridwan Shariffdeen"
+        },
+        {
+            "source": "Abhik Roychoudhury",
+            "target": "Martin Mirchev"
+        },
+        {
+            "source": "Abhik Roychoudhury",
+            "target": "Shin Hwei Tan"
+        },
+        {
+            "source": "Dominik Sobania",
+            "target": "Justyna Petke"
+        },
+        {
+            "source": "Dominik Sobania",
+            "target": "Martin Briesch"
+        },
+        {
+            "source": "Dominik Sobania",
+            "target": "Carol Hanna"
+        },
+        {
+            "source": "Martin Briesch",
+            "target": "Dominik Sobania"
+        },
+        {
+            "source": "Martin Briesch",
+            "target": "Justyna Petke"
+        },
+        {
+            "source": "Martin Briesch",
+            "target": "Carol Hanna"
+        },
+        {
+            "source": "Carol Hanna",
+            "target": "Dominik Sobania"
+        },
+        {
+            "source": "Carol Hanna",
+            "target": "Martin Briesch"
+        },
+        {
+            "source": "Carol Hanna",
+            "target": "Justyna Petke"
+        },
+        {
+            "source": "Justyna Petke",
+            "target": "Shin Hwei Tan"
+        },
+        {
+            "source": "Justyna Petke",
+            "target": "Dominik Sobania"
+        },
+        {
+            "source": "Justyna Petke",
+            "target": "David Clark"
+        },
+        {
+            "source": "Justyna Petke",
+            "target": "Martin Briesch"
+        },
+        {
+            "source": "Justyna Petke",
+            "target": "Carol Hanna"
+        },
+        {
+            "source": "Shin Hwei Tan",
+            "target": "Sergey Mechtaev"
+        },
+        {
+            "source": "Shin Hwei Tan",
+            "target": "Yuriy Brun"
+        },
+        {
+            "source": "Shin Hwei Tan",
+            "target": "Ridwan Shariffdeen"
+        },
+        {
+            "source": "Shin Hwei Tan",
+            "target": "Martin Mirchev"
+        },
+        {
+            "source": "Shin Hwei Tan",
+            "target": "Dongsun Kim"
+        },
+        {
+            "source": "Shin Hwei Tan",
+            "target": "Justyna Petke"
+        },
+        {
+            "source": "Shin Hwei Tan",
+            "target": "Abhik Roychoudhury"
+        },
+        {
+            "source": "Dongsun Kim",
+            "target": "Shin Hwei Tan"
+        },
+        {
+            "source": "Dongsun Kim",
+            "target": "Sergey Mechtaev"
+        },
+        {
+            "source": "Dongsun Kim",
+            "target": "Yuriy Brun"
+        },
+        {
+            "source": "Sergey Mechtaev",
+            "target": "Shin Hwei Tan"
+        },
+        {
+            "source": "Sergey Mechtaev",
+            "target": "Dongsun Kim"
+        },
+        {
+            "source": "Sergey Mechtaev",
+            "target": "Abhik Roychoudhury"
+        },
+        {
+            "source": "Sergey Mechtaev",
+            "target": "Yuriy Brun"
+        },
+        {
+            "source": "Yuriy Brun",
+            "target": "Sergey Mechtaev"
+        },
+        {
+            "source": "Yuriy Brun",
+            "target": "Shin Hwei Tan"
+        },
+        {
+            "source": "Yuriy Brun",
+            "target": "Dongsun Kim"
+        },
+        {
+            "source": "Alex Brown",
+            "target": "Jin B. Hong"
+        },
+        {
+            "source": "Alex Brown",
+            "target": "Tze-Wen Lee"
+        },
+        {
+            "source": "Tze-Wen Lee",
+            "target": "Alex Brown"
+        },
+        {
+            "source": "Tze-Wen Lee",
+            "target": "Jin B. Hong"
+        },
+        {
+            "source": "Jin B. Hong",
+            "target": "Alex Brown"
+        },
+        {
+            "source": "Jin B. Hong",
+            "target": "Tze-Wen Lee"
+        },
+        {
+            "source": "Johannes de Haan",
+            "target": "Abdel Youssouf"
+        },
+        {
+            "source": "Abdel Youssouf",
+            "target": "Johannes de Haan"
+        },
+        {
+            "source": "Ita Ryan",
+            "target": "Utz Roedig"
+        },
+        {
+            "source": "Ita Ryan",
+            "target": "Klaas-Jan Stol"
+        },
+        {
+            "source": "Klaas-Jan Stol",
+            "target": "Utz Roedig"
+        },
+        {
+            "source": "Klaas-Jan Stol",
+            "target": "Ita Ryan"
+        },
+        {
+            "source": "Utz Roedig",
+            "target": "Klaas-Jan Stol"
+        },
+        {
+            "source": "Utz Roedig",
+            "target": "Ita Ryan"
+        },
+        {
+            "source": "Kayode Yakub Saheed",
+            "target": "Sabarathinam Chockalingam"
+        },
+        {
+            "source": "Kayode Yakub Saheed",
+            "target": "Sanjay Misra"
+        },
+        {
+            "source": "Sanjay Misra",
+            "target": "Kayode Yakub Saheed"
+        },
+        {
+            "source": "Sanjay Misra",
+            "target": "Sabarathinam Chockalingam"
+        },
+        {
+            "source": "Sabarathinam Chockalingam",
+            "target": "Kayode Yakub Saheed"
+        },
+        {
+            "source": "Sabarathinam Chockalingam",
+            "target": "Sanjay Misra"
+        },
+        {
+            "source": "Joshua Ammermann",
+            "target": "Tim Bittner"
+        },
+        {
+            "source": "Joshua Ammermann",
+            "target": "Ina Schaefer"
+        },
+        {
+            "source": "Joshua Ammermann",
+            "target": "Christoph Seidl"
+        },
+        {
+            "source": "Joshua Ammermann",
+            "target": "Domenik Eichhorn"
+        },
+        {
+            "source": "Tim Bittner",
+            "target": "Ina Schaefer"
+        },
+        {
+            "source": "Tim Bittner",
+            "target": "Joshua Ammermann"
+        },
+        {
+            "source": "Tim Bittner",
+            "target": "Christoph Seidl"
+        },
+        {
+            "source": "Tim Bittner",
+            "target": "Domenik Eichhorn"
+        },
+        {
+            "source": "Domenik Eichhorn",
+            "target": "Tim Bittner"
+        },
+        {
+            "source": "Domenik Eichhorn",
+            "target": "Ina Schaefer"
+        },
+        {
+            "source": "Domenik Eichhorn",
+            "target": "Joshua Ammermann"
+        },
+        {
+            "source": "Domenik Eichhorn",
+            "target": "Christoph Seidl"
+        },
+        {
+            "source": "Ina Schaefer",
+            "target": "Joshua Ammermann"
+        },
+        {
+            "source": "Ina Schaefer",
+            "target": "Domenik Eichhorn"
+        },
+        {
+            "source": "Ina Schaefer",
+            "target": "Christoph Seidl"
+        },
+        {
+            "source": "Ina Schaefer",
+            "target": "Bernhard Rumpe"
+        },
+        {
+            "source": "Ina Schaefer",
+            "target": "Tim Bittner"
+        },
+        {
+            "source": "Christoph Seidl",
+            "target": "Tim Bittner"
+        },
+        {
+            "source": "Christoph Seidl",
+            "target": "Joshua Ammermann"
+        },
+        {
+            "source": "Christoph Seidl",
+            "target": "Ina Schaefer"
+        },
+        {
+            "source": "Christoph Seidl",
+            "target": "Domenik Eichhorn"
+        },
+        {
+            "source": "Aidan Evans",
+            "target": "Robert Rand"
+        },
+        {
+            "source": "Aidan Evans",
+            "target": "Seun Omonije"
+        },
+        {
+            "source": "Seun Omonije",
+            "target": "Aidan Evans"
+        },
+        {
+            "source": "Seun Omonije",
+            "target": "Robert Rand"
+        },
+        {
+            "source": "Robert Soule",
+            "target": "Seun Omonije"
+        },
+        {
+            "source": "Robert Soule",
+            "target": "Aidan Evans"
+        },
+        {
+            "source": "Robert Soule",
+            "target": "Robert Rand"
+        },
+        {
+            "source": "Robert Rand",
+            "target": "Seun Omonije"
+        },
+        {
+            "source": "Robert Rand",
+            "target": "Aidan Evans"
+        },
+        {
+            "source": "Hector D. Menendez",
+            "target": "David Clark"
+        },
+        {
+            "source": "Hector D. Menendez",
+            "target": "Luciano Bello"
+        },
+        {
+            "source": "Luciano Bello",
+            "target": "David Clark"
+        },
+        {
+            "source": "David Clark",
+            "target": "Justyna Petke"
+        },
+        {
+            "source": "David Clark",
+            "target": "Luciano Bello"
+        },
+        {
+            "source": "Javier Sanchez-Rivero",
+            "target": "Juan Manuel Murillo"
+        },
+        {
+            "source": "Daniel Talavan",
+            "target": "Javier Sanchez-Rivero"
+        },
+        {
+            "source": "Daniel Talavan",
+            "target": "Juan Manuel Murillo"
+        },
+        {
+            "source": "Jose Garcia-Alonso",
+            "target": "Juan Manuel Murillo"
+        },
+        {
+            "source": "Jose Garcia-Alonso",
+            "target": "Javier Sanchez-Rivero"
+        },
+        {
+            "source": "Antonio Ruiz-Cortes",
+            "target": "Juan Manuel Murillo"
+        },
+        {
+            "source": "Antonio Ruiz-Cortes",
+            "target": "Javier Sanchez-Rivero"
+        },
+        {
+            "source": "Juan Manuel Murillo",
+            "target": "Javier Sanchez-Rivero"
+        },
+        {
+            "source": "Shangzhou Xia",
+            "target": "Jianjun Zhao"
+        },
+        {
+            "source": "Jianjun Zhao",
+            "target": "Xiongfei Wu"
+        },
+        {
+            "source": "Jianjun Zhao",
+            "target": "Zhuo Li"
+        },
+        {
+            "source": "Jianjun Zhao",
+            "target": "Pengzhan Zhao"
+        },
+        {
+            "source": "Masaomi Yamaguchi",
+            "target": "Nobukazu Yoshioka"
+        },
+        {
+            "source": "Nobukazu Yoshioka",
+            "target": "Masaomi Yamaguchi"
+        },
+        {
+            "source": "Pengzhan Zhao",
+            "target": "Xiongfei Wu"
+        },
+        {
+            "source": "Pengzhan Zhao",
+            "target": "Zhuo Li"
+        },
+        {
+            "source": "Pengzhan Zhao",
+            "target": "Jianjun Zhao"
+        },
+        {
+            "source": "Xiongfei Wu",
+            "target": "Zhuo Li"
+        },
+        {
+            "source": "Xiongfei Wu",
+            "target": "Pengzhan Zhao"
+        },
+        {
+            "source": "Xiongfei Wu",
+            "target": "Jianjun Zhao"
+        },
+        {
+            "source": "Zhuo Li",
+            "target": "Pengzhan Zhao"
+        },
+        {
+            "source": "Zhuo Li",
+            "target": "Jianjun Zhao"
+        },
+        {
+            "source": "Zhuo Li",
+            "target": "Xiongfei Wu"
+        },
+        {
+            "source": "Shaukat Ali",
+            "target": "Tao Yue"
+        },
+        {
+            "source": "Tao Yue",
+            "target": "Shaukat Ali"
+        }
+    ]
+}
