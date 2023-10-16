@@ -7,14 +7,14 @@
       "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
       "children": [
         {
-          "name": "Cor-Paul Bezemer (17)",
+          "name": "Cor-Paul Bezemer (13)",
           "url": "https://dblp.uni-trier.de/pid/95/7251.html",
           "value": 100,
           "children": [
             {
               "name": "Ahmed E. Hassan",
               "pid": "h/AhmedEHassan",
-              "count": 17,
+              "count": 13,
               "value": 100
             },
             {
@@ -391,7 +391,7 @@
       "url": "https://dblp.uni-trier.de/pid/89/6793-1.html",
       "children": [
         {
-          "name": "Xin Xia 0001 (10)",
+          "name": "Xin Xia 0001 (7)",
           "url": "https://dblp.uni-trier.de/pid/06/2072-1.html",
           "value": 100,
           "children": [
@@ -472,7 +472,7 @@
             {
               "name": "Cor-Paul Bezemer",
               "pid": "95/7251",
-              "count": 17,
+              "count": 13,
               "value": 100
             },
             {
@@ -1166,7 +1166,7 @@
             {
               "name": "Cor-Paul Bezemer",
               "pid": "95/7251",
-              "count": 17,
+              "count": 13,
               "value": 100
             },
             {
@@ -1351,14 +1351,14 @@
       "url": "https://dblp.uni-trier.de/pid/06/2072-1.html",
       "children": [
         {
-          "name": "David Lo 0001 (10)",
+          "name": "David Lo 0001 (7)",
           "url": "https://dblp.uni-trier.de/pid/89/6793-1.html",
           "value": 100,
           "children": [
             {
               "name": "Xin Xia 0001",
               "pid": "06/2072-1",
-              "count": 10,
+              "count": 7,
               "value": 100
             },
             {
@@ -1425,14 +1425,14 @@
           ]
         },
         {
-          "name": "Ahmed E. Hassan (5)",
+          "name": "Ahmed E. Hassan (4)",
           "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
           "value": 100,
           "children": [
             {
               "name": "Cor-Paul Bezemer",
               "pid": "95/7251",
-              "count": 17,
+              "count": 13,
               "value": 100
             },
             {
@@ -1462,7 +1462,7 @@
           ]
         },
         {
-          "name": "Emad Shihab (4)",
+          "name": "Emad Shihab (2)",
           "url": "https://dblp.uni-trier.de/pid/05/5996.html",
           "value": 100,
           "children": [
@@ -1481,7 +1481,7 @@
             {
               "name": "Xin Xia 0001",
               "pid": "06/2072-1",
-              "count": 4,
+              "count": 2,
               "value": 100
             },
             {
@@ -1499,7 +1499,7 @@
           ]
         },
         {
-          "name": "Zhenchang Xing (4)",
+          "name": "Zhenchang Xing (2)",
           "url": "https://dblp.uni-trier.de/pid/52/6482.html",
           "value": 100,
           "children": [
@@ -1512,7 +1512,7 @@
             {
               "name": "Xin Xia 0001",
               "pid": "06/2072-1",
-              "count": 4,
+              "count": 2,
               "value": 100
             },
             {
@@ -1735,14 +1735,14 @@
       "url": "https://dblp.uni-trier.de/pid/95/7251.html",
       "children": [
         {
-          "name": "Ahmed E. Hassan (17)",
+          "name": "Ahmed E. Hassan (13)",
           "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
           "value": 100,
           "children": [
             {
               "name": "Cor-Paul Bezemer",
               "pid": "95/7251",
-              "count": 17,
+              "count": 13,
               "value": 100
             },
             {
@@ -1772,7 +1772,7 @@
           ]
         },
         {
-          "name": "Dayi Lin (6)",
+          "name": "Dayi Lin (2)",
           "url": "https://dblp.uni-trier.de/pid/187/9420.html",
           "value": 100,
           "children": [
@@ -1809,7 +1809,7 @@
           ]
         },
         {
-          "name": "Shaowei Wang 0002 (3)",
+          "name": "Shaowei Wang 0002 (2)",
           "url": "https://dblp.uni-trier.de/pid/49/6937-2.html",
           "value": 100,
           "children": [
@@ -1883,7 +1883,7 @@
           ]
         },
         {
-          "name": "Hanyang Hu (2)",
+          "name": "Hanyang Hu (1)",
           "url": "https://dblp.uni-trier.de/pid/191/3899.html",
           "value": 100,
           "children": [

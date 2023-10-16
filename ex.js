@@ -137,7 +137,7 @@ function chart(data) {
 }
 
 // Load data from the JSON file
-d3.json("final_ese_coauthors.json").then(data => {
+d3.json("final_ese_coauthors copy.json").then(data => {
   // Call the chart function with your data
   const svg = chart(data);
 
