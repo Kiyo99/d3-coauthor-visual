@@ -1,19 +1,4 @@
-/* Style for nodes (dots) */
-circle {
-    stroke: #000;
-    stroke-width: 1.5px;
+.centered{
+    background-color: black;
 }
-
-/* Style for links (lines) */
-.line {
-    stroke: #b50b0b;
-    /* stroke-opacity: 0.6; */
-}
-
-/* Style for author labels (author names) */
-.author-label {
-    font-size: 12px;
-    text-anchor: middle;
-    /* visibility: hidden; Initially hidden */
-    fill: #333; /* Text color */
-}
+    
